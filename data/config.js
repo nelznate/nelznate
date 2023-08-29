@@ -44,5 +44,4 @@ export const stack = {
 export const contact = {
   title: 'Contact Me',
   email: 'nelznate@gmail.com'
-  github: 'nelznate'
 };
