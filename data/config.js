@@ -20,7 +20,7 @@ export const projects = {
     {
       title: 'GitHub',
       description: 'Coding stuff!',
-      github: 'github.com/nelznate'
+      github: 'nelznate'
     },
     {
       title: 'Instagram',
