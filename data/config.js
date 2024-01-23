@@ -15,17 +15,17 @@ export const projects = {
     {
       title: 'Behance',
       description: 'Nelson Nathan-Portfolio',
-      link: 'https://behance.com/nelznate'
+      link: 'https://behance.net/nlxn'
     },
     {
       title: 'GitHub',
       description: 'Coding stuff!',
-      github: 'nelznate'
+      github: 'nlxn'
     },
     {
       title: 'Instagram',
       description: 'Keeping it real!',
-      link: 'https://instagram.com/nelznate'
+      link: 'https://instagram.com/nlxn.xyz'
     }
   ]
 };
@@ -43,5 +43,5 @@ export const stack = {
 
 export const contact = {
   title: 'Contact Me',
-  email: 'nelznate@gmail.com'
+  email: 'nelson@nlxn.xyz'
 };
